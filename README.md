@@ -8,10 +8,7 @@ A simple advice application that displays random advices
 * Clone Project to your machine
 * Install all the requirements found in requirements file.
 * Access the live site using the local host provided 
-### Prerequisites
-* python3.9  
-* virtual environment
-* pip 
+
 ### Clone the Repo 
 * git clone https://github.com/Calebbii/Instagram-App.git
 * Initialize git and add the remote repository
@@ -27,4 +24,4 @@ learn tests
 * HTML
 * CSS
 ### License
-[MIT Lisence](https://github.com/Calebbii/Instagram-App/blob/master/LICENSE) Copyright (c) 2021 Calebbii.
+[MIT Lisence](https://github.com/Calebbii/Advice_app/blob/master/LICENSE) Copyright (c) 2021 Calebbii.
