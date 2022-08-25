@@ -17,7 +17,7 @@ A simple advice application that displays random advices
 * Install dependancies
 
 ### Testing the Application
-learn tests
+learn test
 
 ### Built With 
 * JavaScript
