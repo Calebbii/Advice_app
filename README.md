@@ -18,7 +18,7 @@ A simple advice application that displays random advices
 
 ### Testing the Application
 learn test
-npm te
+npm tes
 
 ### Built With 
 * JavaScript
