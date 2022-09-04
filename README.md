@@ -18,6 +18,7 @@ A simple advice application that displays random advices
 
 ### Testing the Application
 learn test
+np
 
 ### Built With 
 * JavaScript
