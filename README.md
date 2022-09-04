@@ -1,7 +1,7 @@
 # Advice_app
 A simple advice application that displays random advices
 ## Author
-Caleb bii. 
+Caleb bii.
 ### Description
 A simple advice application that displays random advices
 ### Setup and installations
