@@ -10,7 +10,7 @@ A simple advice application that displays random advices
 * Access the live site using the local host provided 
 
 ### Clone the Repo 
-* git clone https://github.com/Calebbii/Instagram-App.git
+* git clone https://github.com/Calebbii/Advice_app.git
 * Initialize git and add the remote repository
 * git init
 * git remote add origin <your-repository-url>
