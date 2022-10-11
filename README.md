@@ -25,5 +25,5 @@ npm test
 * HTML
 * CSS
 ### License
-[MIT Lisence](https://github.com/Calebbii/Advice_app/blob/master/LICENSE) Copyright (c) 2021 Calebbii.
+[MIT Lisence](https://github.com/Calebbii/Advice_app/blob/master/LICENSE) Copyright (c) 2022 Calebbii.
 
