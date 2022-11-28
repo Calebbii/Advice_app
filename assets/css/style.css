@@ -58,3 +58,7 @@ body {
     text-align: center;
     margin-top: 6cm;
 }
+
+button {
+    border-radius: 30%;
+}
